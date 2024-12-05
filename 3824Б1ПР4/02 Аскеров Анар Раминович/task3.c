@@ -1,5 +1,8 @@
 // Задача 3. Найти максимум из вешественных чисел a и b
 double max_of_two_numbers(double a, double b)
 {
-  return 0.0;
+  ``c
+double maxoftwo_numbers(double a, double b) {
+    return (a > b) ? a : b;
 }
+``
